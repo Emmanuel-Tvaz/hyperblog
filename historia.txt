@@ -5,3 +5,5 @@ Emmanuel Torres tiene 33 años y nacio en México.
 Esta es su historia.
 
 El es muy alto
+
+Hoy es desarrollador web y android.
